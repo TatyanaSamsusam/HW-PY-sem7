@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Eddard",
+    "Surname": "Stark",
+    "Phone number": "111222",
+    "Comment": "Winterfell"
+  },
+  {
+    "Name": "Sansa",
+    "Surname": "Stark",
+    "Phone number": "111333",
+    "Comment": "Winterfell"
+  },
+  {
+    "Name": "Sersei",
+    "Surname": "Lannister",
+    "Phone number": "222555",
+    "Comment": "Casterly Rock"
+  },
+  {
+    "Name": "Tommen",
+    "Surname": "Baratheon",
+    "Phone number": "888999",
+    "Comment": "King"
+  }
+]
